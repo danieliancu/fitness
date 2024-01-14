@@ -1,0 +1,30 @@
+{
+    "fitness_types": {
+      "en": {
+        "Strength/Resistance": "This focuses on developing strength and muscle mass through working with weights or other forms of resistance.",
+        "Cardio/Aerobic": "This type of fitness aims to improve heart health and the respiratory system. Examples include running, cycling, swimming, and cardio equipment exercises.",
+        "Yoga/Pilates": "These practices focus on flexibility, balance, and strength, while also providing benefits for the mind and body.",
+        "Functional": "This is a form of exercise that improves the body's ability to perform daily activities. It usually includes movements that mimic everyday actions.",
+        "Mobility/Stabilization": "Focuses on improving joint mobility and stability, essential for preventing injuries."
+      },
+      "es": {
+        "Fuerza/Resistencia": "Esto se centra en desarrollar fuerza y masa muscular a través del trabajo con pesas u otras formas de resistencia.",
+        "Cardio/Aeróbico": "Este tipo de fitness tiene como objetivo mejorar la salud del corazón y el sistema respiratorio. Ejemplos incluyen correr, ciclismo, natación y ejercicios en equipos de cardio.",
+        "Yoga/Pilates": "Estas prácticas se centran en la flexibilidad, el equilibrio y la fuerza, al mismo tiempo que ofrecen beneficios para la mente y el cuerpo.",
+        "Funcional": "Es una forma de ejercicio que mejora la capacidad del cuerpo para realizar actividades diarias. Generalmente incluye movimientos que imitan las acciones cotidianas.",
+        "Movilidad/Estabilización": "Se enfoca en mejorar la movilidad articular y la estabilidad, esenciales para prevenir lesiones."
+      },
+      "ro": {
+        "Forță/Rezistență": "Acesta se concentrează pe dezvoltarea forței și a masei musculare prin lucrul cu greutăți sau alte forme de rezistență.",
+        "Cardio/Aerobic": "Acest tip de fitness vizează îmbunătățirea sănătății inimii și a sistemului respirator. Exemple includ alergatul, ciclismul, înotul și exercițiile pe echipamente cardio.",
+        "Yoga/Pilates": "Aceste practici se concentrează pe flexibilitate, echilibru și forță, oferind în același timp beneficii pentru minte și corp.",
+        "Funcțional": "Aceasta este o formă de exercițiu care îmbunătățește abilitatea corpului de a efectua activități zilnice. De obicei include mișcări care imită acțiunile de zi cu zi.",
+        "Mobilitate/Stabilizare": "Se concentrează pe îmbunătățirea mobilității articulațiilor și a stabilității, esențiale pentru prevenirea accidentărilor."
+        }
+    },
+    "headline": {
+        "en": "Hello",
+        "es": "Hola",
+        "ro": "Salut"               
+    }
+}
